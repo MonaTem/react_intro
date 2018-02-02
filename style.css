@@ -69,6 +69,12 @@ li {
   padding: 3px;
   margin: 2px;
   color: white;
+    opacity: .9;
+}
+
+li:hover{
+  font-weight: 900;
+  opacity: 1;
 }
 
 a {
