@@ -56,7 +56,7 @@ p {
 .container:hover {
   background-color: rgba(233, 233, 233, 0.20);
   border: 2px solid rgba(255, 255, 255, 0.89);
-  border-radius: 9px;
+  border-radius: 30px;
   transition: 1s;
 }
 
